@@ -3,10 +3,10 @@
 The goal for this assignment is to simulate a data set that you may
 encounter during project week.
 
-Let's focus only on transforming this collection. No need to
-invoke a constructor, or pass off control to the View.
+_Let's focus only on transforming this collection. No need to
+invoke a constructor, or pass off control to the View._
 
-*Start simple*:
+**Start simple**:
 
 Transform the initial collection into
 an array of each object's properties.
